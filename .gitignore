@@ -1,0 +1,20 @@
+COAD/coad_DEG/exp_de_canclihc.csv
+COAD/coad_DEG/tumour_DESeq2.tsv
+COAD/Extracted/exp_de_cancCOAD.csv
+COAD/Extracted/exp_IC_cancCOAD.csv
+COAD/Matrices/cancer.csv
+COAD/Matrices/cancer_coad.csv
+COAD/Matrices/rna_canc_coad.csv
+COAD/tumour_DESeq2.tsv
+READ/Matrices/rna_canc_read.csv
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Large research data files
+COAD/Matrices/rna_canc_coad.csv

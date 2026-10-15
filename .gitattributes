@@ -1,0 +1,9 @@
+COAD/Matrices/rna_canc_coad.csv filter=lfs diff=lfs merge=lfs -text
+COAD/Extracted/exp_IC_cancCOAD.csv filter=lfs diff=lfs merge=lfs -text
+COAD/Extracted/exp_de_cancCOAD.csv filter=lfs diff=lfs merge=lfs -text
+COAD/Matrices/cancer.csv filter=lfs diff=lfs merge=lfs -text
+COAD/Matrices/cancer_coad.csv filter=lfs diff=lfs merge=lfs -text
+COAD/coad_DEG/exp_de_canclihc.csv filter=lfs diff=lfs merge=lfs -text
+COAD/coad_DEG/tumour_DESeq2.tsv filter=lfs diff=lfs merge=lfs -text
+COAD/tumour_DESeq2.tsv filter=lfs diff=lfs merge=lfs -text
+READ/Matrices/rna_canc_read.csv filter=lfs diff=lfs merge=lfs -text
